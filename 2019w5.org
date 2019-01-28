@@ -1,0 +1,14 @@
+#+TITLE: 2019w5
+#+AUTHOR: ahuman
+#+STARTUP: overview
+#+STARTUP: content
+#+STARTUP: indent
+
+* Tool
+** 临时邮箱
+- 网址：[[https://10minutemail.net/]]
+- 来源：即刻
+* Life
+** 叠衣服技巧
+- 视频：[[http://t.cn/EUAhAFE]]
+- 来源：即刻
