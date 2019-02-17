@@ -1,0 +1,19 @@
+#+TITLE: 2019w7
+#+AUTHOR: ahuman
+#+STARTUP: overview
+#+STARTUP: content
+#+STARTUP: indent
+
+* Tool
+** CopyTranslator (PDF即时翻译)
+- 网址：https://github.com/elliottzheng/CopyTranslator/blob/master/README_zh.md
+- 来源：ruanyf-weekly
+* Image
+** Image Inpainting （图片修复）
+- 网址：https://www.nvidia.com/research/inpainting/
+- 来源：ruanyf-weekly
+* 影音
+** Puffer (美国电视节目)
+斯坦福大学的一个视频算法实验项目，可以免费观看美国的电视直播，画质1080P
+- 网址：https://puffer.stanford.edu
+- 来源：ruanyf-weekly
